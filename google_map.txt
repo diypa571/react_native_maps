@@ -1,6 +1,6 @@
 //https://github.com/react-native-maps/react-native-maps
 //https://github.com/FaridSafi/react-native-google-places-autocomplete
-
+// WORKS ON IOS AND ANDROID. NO SUPPORT FOR WEB
 
 import * as React from "react"
 import { Dimensions, StyleSheet, Text, View } from "react-native"
